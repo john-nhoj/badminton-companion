@@ -36,6 +36,18 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "571577fc-23d9-439e-965a-e1b5c249bb8b"
+      }
+    },
+    "owner": "badminton-companion",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/571577fc-23d9-439e-965a-e1b5c249bb8b"
     }
   }
 }

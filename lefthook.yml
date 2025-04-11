@@ -3,3 +3,4 @@ pre-commit:
   jobs:
     - name: lint-check
       run: npm run format:check-staged
+      stage_fixed: true
